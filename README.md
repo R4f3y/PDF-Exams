@@ -19,7 +19,7 @@ This repository contains PDFs of three exams I completed as part of my study pro
 **Description:** 
 This exam focuses on evaluating the student's understanding and practical application of fundamental java programming concepts, including variables, data types, control structures, functions, and object-oriented programming. It tests the ability to solve problems using algorithms, such as sorting and searching, and requires students to write, debug, and optimize code. Additionally, the exam assesses the ability to effectively use programming techniques to create functional and efficient software solutions.
 
-**Exam PDF:** [Programmering (DAPE1400) Exam](Programmering.pdf)
+**Exam PDF:** [Programmering (DAPE1400) Exam](Programmering_eksamen.pdf)
 
 ### Webprogrammering (DATA1700)
 
@@ -28,7 +28,7 @@ This exam focuses on evaluating the student's understanding and practical applic
 **Description:** 
 This exam focused on web programming using Spring Boot. The coursework involved creating websites that interact with databases through Spring. It covered various aspects of web development including backend development, database integration, and the use of Spring Boot for building robust web applications.
 
-**Exam PDF:** [Webprogrammering (DATA1700) Exam](Webprogrammering.pdf)
+**Exam PDF:** [Webprogrammering (DATA1700) Exam](Webprogrammering_eksamen.pdf)
 
 ### Algoritmer og datastrukturer (DATS2300)
 
@@ -37,7 +37,7 @@ This exam focused on web programming using Spring Boot. The coursework involved 
 **Description:** 
 This exam was centered around implementing data structures in Java. The coursework required a deep understanding of algorithms and data structures and their practical implementation in Java. Topics included various data structures such as lists, trees, and graphs, and how to apply algorithms to solve problems efficiently.
 
-**Exam PDF:** [Algoritmer og datastrukturer (DATS2300) Exam](Algoritmer.pdf)
+**Exam PDF:** [Algoritmer og datastrukturer (DATS2300) Exam](Algdat_eksamen.pdf)
 
 ## How to Access
 
